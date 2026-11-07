@@ -48,6 +48,12 @@ The player LEDs (the four below the Home button) are a different subcommand (`0x
 - Third-party "Pro" pads may shut down when sent LED commands (SDL guards against this for some models), so use at your own risk.
 - Only the Home LED is controlled.
 
+## AI disclosure
+
+This project was developed with help from DeepSeek V4.1 Flash Free through OpenCode.
+
+The AI assistant helped produce the code, tests, and documentation under human direction. Research into the controller's HID protocol, testing against a physical Pro Controller, and final release decisions were handled and reviewed by the repository owner.
+
 ## License
 
 MIT
