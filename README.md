@@ -50,4 +50,4 @@ The player LEDs (the four below the Home button) are a different subcommand (`0x
 
 ## License
 
-No license has been added yet. Add one before publishing if you want others to reuse this.
+MIT
